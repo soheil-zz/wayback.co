@@ -1,6 +1,6 @@
 # wayback.co
 
-Just insert this (wayback.co) before any URL to get its Wayback Machine (what it looked like) from a year ago.
+Just insert this (wayback.co/) before any URL to get its Wayback Machine (what it looked like) from a year ago.
 
 Pull requests to extend functionality are welcome, specially to supoprt different dates.
 
